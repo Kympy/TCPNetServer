@@ -1,0 +1,6 @@
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\obj\Debug\TCPTestServer.csproj.AssemblyReference.cache
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\obj\Debug\TCPTestServer.csproj.CoreCompileInputs.cache
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\bin\Debug\TCPNetServer.pdb
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\obj\Debug\TCPNetServer.pdb
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\bin\Debug\TCPNetServer.exe
+C:\Users\kwonyongmoon.PRESSA\Desktop\TCPTestServer\TCPTestServer\obj\Debug\TCPNetServer.exe
